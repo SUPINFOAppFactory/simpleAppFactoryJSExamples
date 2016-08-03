@@ -1,0 +1,26 @@
+{
+   "author":"SUPINFO AppFactory",
+   "pluginName":"Folder",
+   "pluginDescription":"A plugin to show plugins list",
+   "supportEmail":"supinfoappfactory@supinfo.com",
+   "control":{
+      "content":{
+         "enabled":true
+      },
+      "design":{
+         "enabled":false
+      },
+      "settings":{
+         "enabled":false
+      }
+   },
+   "widget":{
+
+   },
+   "features":[
+
+   ],
+   "languages":[
+      "en"
+   ]
+}

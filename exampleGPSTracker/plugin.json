@@ -1,0 +1,22 @@
+{
+  "author":"SUPINFO AppFactory"
+,"pluginName":"Geo Tracker Example"
+,"pluginDescription":"Light weight doent use even datastore"
+,"supportEmail":"supinfoappfactory@supinfo.com"
+,"control":{
+  "content":{
+    "enabled":true
+  }
+, "design":{
+    "enabled":false
+  }
+, "settings":{
+    "enabled":false
+  }
+}
+,"widget":{
+
+},
+  "features" : [{"name" : "Geo"}],
+  "languages" : ["en"]
+}

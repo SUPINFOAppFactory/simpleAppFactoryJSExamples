@@ -1,0 +1,22 @@
+{
+  "author":"SUPINFO AppFactory"
+  ,"pluginName":"Example Plugin"
+  ,"pluginDescription":"This is a simple test plugin"
+  ,"supportEmail":"supinfoappfactory@supinfo.com"
+  ,"control":{
+    "content":{
+      "enabled":true
+    }
+    , "design":{
+      "enabled":true
+    }
+    , "settings":{
+      "enabled":false
+    }
+  }
+  ,"widget":{
+
+  },
+  "features" : [{"name" : "GPS"} ,{"name" : "Bluetooth"}],
+  "languages" : ["en" , "fr"]
+}
