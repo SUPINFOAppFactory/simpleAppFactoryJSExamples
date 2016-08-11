@@ -1,8 +1,8 @@
 {
-  "author":"SUPINFO AppFactory"
+  "author":""
 ,"pluginName":"service example"
 ,"pluginDescription":"Light weight service that accesses the datastore and pops up a url after a few seconds"
-,"supportEmail":"supinfoappfactory@supinfo.com"
+,"supportEmail":""
 ,"control":{
   "content":{
     "enabled":true
