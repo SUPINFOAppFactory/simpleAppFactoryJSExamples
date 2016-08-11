@@ -1,8 +1,8 @@
 {
-   "author":"SUPINFO AppFactory",
+   "author":"",
    "pluginName":"Folder",
    "pluginDescription":"A plugin to show plugins list",
-   "supportEmail":"supinfoappfactory@supinfo.com",
+   "supportEmail":"",
    "control":{
       "content":{
          "enabled":true
